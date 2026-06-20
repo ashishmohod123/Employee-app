@@ -87,4 +87,8 @@ Python Backend Developer
 
 License
 
+<<<<<<< HEAD
 This project is developed for learning and educational purposes.
+=======
+This project is developed for learning and educational purposes.
+>>>>>>> 7296af39ffdb1f8fd3d43f024fc276fd174aebc8
